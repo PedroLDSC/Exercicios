@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.cabecalho{
+    background-image: linear-gradient( to bottom, #414141, #2c2c2c );
+    padding: 10px;
+    border-bottom: 5px solid rgb(255, 136, 0);
+}
+
+#titulo-header{
+    color: white;
+    text-align: center;
+}
+
+.main{
+    max-width: 880px;
+    margin: auto;
+    padding-top: 30px ;
+}
+
+.titulo-main{
+    font-size: 3.3em;
+    font-weight: 600;
+    text-align: start;
+}
+
+.paragrafo-main{
+    font-size: 0.54em;
+    color: #585858;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#ass{
+    font-weight: bold;
+    font-size: 0.45em;
+    padding-bottom: 6px;
+    color: rgb(138, 138, 138);
+}
+
+#data{
+    font-weight: lighter;
+    font-size: 0.4em;
+    color: rgb(185, 185, 185);
+    padding-bottom: 25px;
+}
+
+img{
+    padding-bottom: 25px;
+    padding-right: 10px;
+}
+
+
+.content{
+    max-width: 705px;
+    margin: auto;
+}
+
+.paragrafo-content{
+    font-size: 0.62em;
+    font-weight: 400;
+    color: rgb(97, 97, 97) ;
+    font-family:'Poppins', sans-serif;
+    margin: auto;
+    padding: 10px;
+}
+
+
+#leia{
+    font-size: 0.64em;
+    text-align: center;
+    color: rgb(236, 134, 0);
+    padding-bottom: 10px;
+}
+
+
+
+#lampada{
+    max-width: 690px;
+    display: block;
+    margin: auto;
+    padding-top: 15px;
+}
+
+#texto-pequeno{
+    font-weight: lighter;
+    padding-left: 5px;
+
+    font-size: 0.35em;
+    color: rgb(110, 110, 110);
+    
+}
+
+#texto-pequeno2{
+    font-weight: lighter;
+    padding-left: 12px;
+    font-size: 0.35em;
+    color: rgb(110, 110, 110);
+    
+}
+
+#paragrafo{
+    font-size: 0.54em;
+    font-weight: 500;
+    color: rgb(78, 78, 78);
+    padding-top: 20px;
+}
+
+#orange{
+    color:  rgb(236, 134, 0);
+    font-size: 1.2em;
+}
+
+.titulo-h3{
+    padding-top: 25px;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.paragrafo-content2{
+    font-size: 0.62em;
+    font-weight: 400;
+    color: rgb(97, 97, 97) ;
+    font-family:'Poppins', sans-serif;
+    margin: auto;
+    padding-bottom: 160px;
+}
+
+#rodape{
+    max-width: 1310px;
+    background-color: rgb(54, 54, 54);
+    height: 65px;
+    color: rgb(77, 77, 77);
+}
+
+
+
+
